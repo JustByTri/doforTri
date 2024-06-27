@@ -1,10 +1,13 @@
-# 💫 About Me:
+![can-make-gif-animated-in-the-form-of-pixel-art](https://github.com/doforTri/doforTri/assets/110610313/c48887d0-5b53-477f-8519-c95752223810)# 💫 About Me:
 FPT University<br>Game Maker
 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Nguyen Hoang Tri) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tri Hoàng Nguyễn) 
-https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media
+
+![Uploading can-make-gif-animated-in-the-form-of-pixel-art.gif…]()
+
+
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
