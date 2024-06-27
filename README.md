@@ -1,13 +1,9 @@
 
-
-
-
+<h1 align="center">Hi, My name is Tri</h1>
 
 # 💫 About Me:
-FPT University<br>Developer game<br>Engine software
-
-![90a5e023d3b46c2f9b08e547bd7cfd5e](https://github.com/doforTri/doforTri/assets/110610313/25ea00d6-3d2b-43f8-80c2-7b3df123d758)
-
+FPT University<br>Developer game<br>Engine software <br>
+<img src="https://github.com/doforTri/doforTri/assets/110610313/d46601d1-b028-4e56-b8ed-34bcd0f15588" width="400px" aligin="right"><br>
 ## 🌐 Socials:
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trihoangnguyenn) 
 
@@ -22,8 +18,7 @@ FPT University<br>Developer game<br>Engine software
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=doforTri&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
