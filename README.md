@@ -1,11 +1,14 @@
-![can-make-gif-animated-in-the-form-of-pixel-art](https://github.com/doforTri/doforTri/assets/110610313/c48887d0-5b53-477f-8519-c95752223810)# 💫 About Me:
-FPT University<br>Game Maker
+
+
+# 💫 About Me:
+FPT University<br>Developer game<br> Engine software
+![download](https://github.com/doforTri/doforTri/assets/110610313/18a29aff-8e41-45b2-a631-919ec11054e3)
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Nguyen Hoang Tri) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tri Hoàng Nguyễn) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Nguyen Hoang Tri) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trihoangnguyenn) 
 
-![Uploading can-make-gif-animated-in-the-form-of-pixel-art.gif…]()
+
 
 
 # 💻 Tech Stack:
@@ -17,13 +20,11 @@ FPT University<br>Game Maker
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=doforTri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
