@@ -1,12 +1,12 @@
 
-![90a5e023d3b46c2f9b08e547bd7cfd5e](https://github.com/doforTri/doforTri/assets/110610313/25ea00d6-3d2b-43f8-80c2-7b3df123d758)
+
 
 
 
 # 💫 About Me:
 FPT University<br>Developer game<br>Engine software
 
-
+![90a5e023d3b46c2f9b08e547bd7cfd5e](https://github.com/doforTri/doforTri/assets/110610313/25ea00d6-3d2b-43f8-80c2-7b3df123d758)
 
 ## 🌐 Socials:
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trihoangnguyenn) 
