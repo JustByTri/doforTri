@@ -14,7 +14,7 @@
   <tr>
     <td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></td>
     <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
-      <td><img src="https://img.shields.io/badge/html5-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="HTML5"></td>
+<td><img src="https://img.shields.io/badge/html5-%237952B.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
     <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
   </tr>
 </table>
